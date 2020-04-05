@@ -12,6 +12,7 @@ buffer with the help of dqn_agent.py has been done.
 The code is clearly documented for further information about the implementation itself
 
 The neural network itself has:
+
 	- one input layer with the size 37 (representation of the state space)
 	- three hidden layers with the size 200, 100 and 20 and 
 	- one output layer with the size 4 (representation of the action space)
