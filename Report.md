@@ -73,12 +73,14 @@ With the replay buffer, a random sample fo state, action, reward, next state bat
 will be trained on that random sample
 
 In order to train the agen the following hyperparameter has been chosen:
+
 alpha = 0.0005
 gamma = 0.99
 tau = 0.001
 epsilon = 1.0 with epsion_decay=0.992 and epsilon_min = 0.01
 
 Hyperparameters for replay buffer:
+
 buffer size = 1e5
 batch_size = 100
 update_every = 10
