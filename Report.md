@@ -82,7 +82,7 @@ buffer size = 1e5
 batch_size = 100
 update_every = 10
 
-![Learning Curve](learning_curve.png)
+![Learning Curve](learning_curve.jpg)
 
 
 
