@@ -1,4 +1,3 @@
-# project_navigation
 [//]: # (Image References)
 
 [image1]: https://user-images.githubusercontent.com/10624937/42135619-d90f2f28-7d12-11e8-8823-82b970a54d7e.gif "Trained Agent"
@@ -27,7 +26,7 @@ A pretrained agent is already provided in the checkpoint.pth which can be loaded
 ### Getting Started
 
 1. Clone the git repositroy into the p1_navigation Project provided by Udacity
-2. Open the Navigation.ipynb in order to either train a new agent on see how the already trained agent behaves
+2. Open the Navigation.ipynb in order to either train a new agent or see how the already trained agent behaves
 
 ### Instructions
 
